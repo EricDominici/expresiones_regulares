@@ -1,0 +1,4 @@
+//Solucion 1
+<input pattern="[KH]{1}\+|-[0-9]{6}[WaRA]">
+//Solucion 2
+<input pattern="K|H|K{1}">

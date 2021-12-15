@@ -1,1 +1,2 @@
-[1-9]+[AcWh]
+
+// <input pattern="[1-9]+[AcWh]">
